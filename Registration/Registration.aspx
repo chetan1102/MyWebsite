@@ -46,6 +46,13 @@
 &nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button2" runat="server" Text="Reset" Width="61px" OnClick="Button2_Click" />
     
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
+    
     </div>
     </form>
 </body>

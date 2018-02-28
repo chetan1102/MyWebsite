@@ -13,7 +13,13 @@
         <H1>Login Page</H1></div>
         <asp:Login ID="Login1" runat="server" Height="186px" Width="354px">
         </asp:Login>
-        <asp:ValidationSummary ID="ValidationSummary1" runat="server" ValidationGroup="Login1" />
+        <asp:ValidationSummary ID="ValidationSummary1" runat="server" ValidationGroup="Login1" Width="387px" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
     </form>
 </body>
 </html>

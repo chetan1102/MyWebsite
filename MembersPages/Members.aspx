@@ -13,6 +13,15 @@
         <asp:Button ID="Button1" runat="server" Height="170px" Text="New Page" Width="1029px" />
     
     </div>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
     </form>
 </body>
 </html>
