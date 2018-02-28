@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
-    <title></title>
+    <title>Registration</title>
 </head>
 <body style="height: 444px">
     <form id="form1" runat="server">
