@@ -36,7 +36,7 @@
         <asp:Label ID="Label4" runat="server" Text="Conatct Number"></asp:Label>
 &nbsp;&nbsp;
         <br />
-        <asp:TextBox ID="TextBox4" runat="server" Height="26px" TextMode="Number" Width="162px"></asp:TextBox>
+        <asp:TextBox ID="TextBox4" runat="server" Height="26px" Width="162px"></asp:TextBox>
         <br />
         <br />
         <br />
