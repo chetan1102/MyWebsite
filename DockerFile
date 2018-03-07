@@ -5,6 +5,7 @@ RUN Install-WindowsFeature NET-Framework-45-ASPNET ; \
     Install-WindowsFeature Web-Asp-Net45
 
 RUN mkdir C:\\MyWebsite
+
 Copy  . C:\\Mywebsite
 RUN Remove-WebSite -Name 'Default Web Site'
 RUN New-Website -Name 'MyWebsite' -Port 80 \
